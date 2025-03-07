@@ -1,0 +1,23 @@
+{
+  "name": "cities-image-gallery",
+  "version": "1.0.0",
+  "description": "Projeto-base para a atividade 02",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "npx htmlhint src/*.html && npx stylelint src/*.css && npx eslint src/js/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "htmlhint": "^1.1.4",
+    "stylelint": "^16.15.0",
+    "stylelint-config-standard": "^37.0.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.0",
+    "@eslint/js": "^9.21.0",
+    "eslint": "^9.21.0",
+    "eslint-config-google": "^0.14.0",
+    "globals": "^16.0.0"
+  }
+}

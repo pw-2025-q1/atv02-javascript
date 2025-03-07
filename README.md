@@ -1,1 +1,3 @@
-# atv02-javascript
+# Atividade 02 - JavaScript
+
+Consultar o enunciado no Moodle.
